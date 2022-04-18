@@ -25,7 +25,8 @@ public class Product extends HttpServlet {
                 new Product(2, "Bread", 50),
                 new Product(3, "Juice", 60),
                 new Product(4, "Butter", 120),
-                new Product(5, "Coffee", 200)
+                new Product(5, "Coffee", 200),
+//                new Product(6, "Tea", 150)
         ));
     }
 
